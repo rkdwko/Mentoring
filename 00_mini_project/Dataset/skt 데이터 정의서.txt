@@ -1,0 +1,95 @@
+2016년 3월 SKT 이동통신을 이용한 외국인 국적별 유동인구
+▶STD_YM : 기준년월
+▶BLOCK_CD : 소지역코드
+▶FOREIGN_CD : 외국인코드
+▶X_COORD : X좌표
+▶Y_COORD : Y좌표
+▶POP : 총유동인구
+
+2015년 1월 SKT 이동통신을 이용한 성별/연령별 유니크 유저
+▶STD_YM : 기준년월
+▶INFLOW_CD : 유입지코드
+▶MAN_FLOW_POP_CNT : 남자유동인구수
+▶WMAN_FLOW_POP_CNT : 여자유동인구수
+▶FLOW_POP_CNT : 유동인구수
+▶SGG_CODE : 시군구코드
+▶GU_NAME : 시군구명
+
+2016년 3월 SKT이동통신을 이용한 요일별 매출(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶SCLS_NM : 소분류업종명
+▶MCLS_NM : 중분류업종명
+▶LCLS_NM : 대분류업종명
+▶요일_SALE_AMT : 요일 카드매출
+▶요일_APV_CNT : 요일 승인건수
+▶요일_PRICE : 요일 매출단가
+▶DATA_LOAD_DT : 데이터적재일시
+
+2016년 3월 SKT이동통신을 이용한 성별/연령별 매출(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶SCLS_NM : 소분류업종명
+▶MCLS_NM : 중분류업종명
+▶LCLS_NM : 대분류업종명
+▶MAN_SALE_AMT_10G : 10대남자 카드매출
+▶WMAN_SALE_AMT_10G : 10대여자 카드매출
+▶MAN_APV_CNT_10G : 10대남자 승인건수
+▶WMAN_APV_CNT_10G : 10대여자 승인건수
+▶MAN_PRICE_10G : 10대남자 매출단가
+▶WMAN_PRICE_10G : 10대여자 매출단가
+▶DATA_LOAD_DT : 데이터적재일시
+
+2016년 3월 SKT이동통신을 이용한 요일별 유동인구(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶X_COORD : X좌표
+▶Y_COORD : Y좌표
+▶AVG_00TMST : 00시 유동인구
+▶DATA_LOAD_DT : 데이터적재일시
+
+2016년 3월 SKT이동통신을 이용한 시간대별 매출(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶SCLS_NM : 소분류업종명
+▶MCLS_NM : 중분류업종명
+▶LCLS_NM : 대분류업종명
+▶SALE_AMT_00TMST : 00시 카드매출
+▶APV_CNT_00TMST : 00시 승인건수
+▶PRICE_00TMST : 00시 매출단가
+▶DATA_LOAD_DT : 데이터적재일시
+
+2016년 3월 SKT이동통신을 이용한 성별/연령별 유동인구(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶X_COORD : X좌표
+▶Y_COORD : Y좌표
+▶MAN_FLOW_POP_CNT_10G : 10대남자유동인구수
+▶WMAN_FLOW_POP_CNT_10G : 10대여자유동인구수
+▶DATA_LOAD_DT : 데이터적재일시
+
+2016년 3월 SKT이동통신을 이용한 시간대별 유동인구(종로구)
+▶STD_YM : 기준년월
+▶SIDO_NM : 시도명
+▶SGNG_NM : 시군구명
+▶ADONG_NM : 행정동명
+▶BLOCK_CD : 소지역코드
+▶X_COORD : X좌표
+▶Y_COORD : Y좌표
+▶AVG_00TMST : 00시 유동인구
+▶DATA_LOAD_DT : 데이터적재일시
